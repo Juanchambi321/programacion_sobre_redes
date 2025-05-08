@@ -36,7 +36,7 @@ public class ClaseEjerciciosIO_ResolucionEjercicio1_a {
             ps.printf("\nEl sueldo bruto es: $%d \n",bruto);
 
         } catch (IOException | NumberFormatException e) {
-            psErr.println("Error en la entrada o conversión de datos.");
+            psErr.println("Error .");
         }
 
 	}
