@@ -23,7 +23,7 @@ public class ClaseEjerciciosIO_ResolucionEjercicio2_c {
             }
 
         } catch (IOException e) {
-            ps.println("Error de entrada/salida.");
+            ps.println("Error ");
         }
     }
 }

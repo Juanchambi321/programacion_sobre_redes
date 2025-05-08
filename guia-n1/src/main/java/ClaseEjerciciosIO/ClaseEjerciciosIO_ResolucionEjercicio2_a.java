@@ -30,7 +30,7 @@ public class ClaseEjerciciosIO_ResolucionEjercicio2_a {
             }
 
         } catch (IOException e) {
-            ps.println("Error en la lectura.");
+            ps.println("Error ");
         }
     }
 

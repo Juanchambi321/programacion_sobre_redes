@@ -42,7 +42,7 @@ public class ClaseEjerciciosIO_ResolucionEjercicio1_g {
             }
 
         } catch (IOException e) {
-            psErr.println("Error de entrada.");
+            psErr.println("Error ");
         }
     }
 

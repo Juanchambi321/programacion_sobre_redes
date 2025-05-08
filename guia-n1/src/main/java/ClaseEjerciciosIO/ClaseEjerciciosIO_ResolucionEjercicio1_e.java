@@ -28,7 +28,7 @@ public class ClaseEjerciciosIO_ResolucionEjercicio1_e {
                       dias, horas, minutos, segundos);
 
         } catch (IOException | NumberFormatException e) {
-            psErr.println("Error en la entrada o conversión de datos.");
+            psErr.println("Error.");
         }
 	}
 

@@ -34,7 +34,7 @@ public class ClaseEjerciciosIO_ResolucionEjercicio2_b {
         } catch (IOException e) {
             ps.println("Error en la lectura.");
         } catch (NumberFormatException e) {
-            ps.println("Ingrese números reales válidos.");
+            ps.println("error");
         }
     }
 }

@@ -24,7 +24,7 @@ public class ClaseEjerciciosIO_ResolucionEjercicio1_d {
             ps.printf("\nLa temperatura en grados Celsius es: %.2f°C\n", celsius);
 
         } catch (IOException | NumberFormatException e) {
-            psErr.println("Error en la entrada o conversión de datos.");
+            psErr.println("Error ");
         }
     }
 

@@ -42,7 +42,7 @@ public class ClaseEjerciciosIO_ResolucionEjercicio1_f {
             ps.printf("\nPlan 4:\n  4 cuotas de: $%.2f\n  y luego 4 cuotas de: $%.2f\n", primeras4, ultimas4);
 
         } catch (IOException | NumberFormatException e) {
-            psErr.println("Error en la entrada o conversión del precio.");
+            psErr.println("Error .");
         }
     }
 }
