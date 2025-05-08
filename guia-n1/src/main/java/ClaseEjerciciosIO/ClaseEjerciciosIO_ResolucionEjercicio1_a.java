@@ -29,7 +29,7 @@ public class ClaseEjerciciosIO_ResolucionEjercicio1_a {
             int ho = Integer.parseInt(horas.trim());
 
             int val = Integer.parseInt(valorH);
-            //val = val + no ;
+            
             
             int bruto = val * ho ;
             
