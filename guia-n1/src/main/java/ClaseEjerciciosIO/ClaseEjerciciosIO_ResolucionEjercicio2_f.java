@@ -12,13 +12,13 @@ public class ClaseEjerciciosIO_ResolucionEjercicio2_f {
 
         try {
             ps.print("Ingrese el nombre de la primera persona: ");
-            String nombre1 = br.readLine().trim();
+            String nom1 = br.readLine().trim();
 
             ps.print("Ingrese el apellido de la primera persona: ");
             String apellido1 = br.readLine().trim();
 
             ps.print("Ingrese el nombre de la segunda persona: ");
-            String nombre2 = br.readLine().trim();
+            String nom2 = br.readLine().trim();
 
             ps.print("Ingrese el apellido de la segunda persona: ");
             String apellido2 = br.readLine().trim();
